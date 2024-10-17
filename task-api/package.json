@@ -1,0 +1,17 @@
+{
+  "name": "task-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Node APIs to manage tasks",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0",
+    "mysql2": "^3.11.3"
+  }
+}
